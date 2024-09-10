@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shanmukha21
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Image processing in Deep Learning
+- 🌱 I’m currently learning Image processing
 - 📫 How to reach me shanmukhaghadiyaram.21@gmail.com
 
 <!---
