@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shanmukha21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 🌱 I’m currently learning Image processing in Deep Learning
 - 📫 How to reach me shanmukhaghadiyaram.21@gmail.com
 
 <!---
