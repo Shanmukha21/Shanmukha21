@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shanmukha21
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Image processing
+- 👀 I’m interested in Machine Learning and GenAI
+- 🌱 I’m currently learning Django
 - 📫 How to reach me shanmukhaghadiyaram.21@gmail.com
 
 <!---
@@ -11,4 +11,4 @@ Connect with me:
 https://www.linkedin.com/in/g-shanmukhasai-sreenivas-752042215/
 
 Languages and Tools:
-Python Java C
+Python, Java, C, Machine Learning, Gen AI, Django, Image Processing, Text Processing, LLMs, Langchain
